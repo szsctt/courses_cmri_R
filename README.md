@@ -57,6 +57,7 @@ Consider covering:
  - design principles for reproducibility
    - don't re-use code/repeat yourself
    - comment frequently
+   - testing / unit tests
    - formatting and readability matters
    - consider package versions: conda / venv
    - consider paths of input/output files (here)
