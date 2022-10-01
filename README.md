@@ -58,6 +58,7 @@ Consider covering:
    - don't re-use code/repeat yourself
    - comment frequently
    - testing / unit tests
+   - what output do you expect?
    - formatting and readability matters
    - consider package versions: conda / venv
    - consider paths of input/output files (here)
