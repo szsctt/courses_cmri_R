@@ -99,6 +99,7 @@ Cheatsheats
 ### other tidyverse
 
  - stringr: regex
+ - glue
  - purrr: map, reduce
  
 ### other libraries
