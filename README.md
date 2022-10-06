@@ -6,6 +6,7 @@ Useful links:
  - [R for reproducilbe scientific analysis](https://swcarpentry.github.io/r-novice-gapminder/)
  - [Tips and tricks for teaching R](https://carpentries.org/blog/2019/05/R-tips-and-tricks/)
  - [One-page summary of R commands](https://drive.google.com/file/d/1bo8vMXeeiRy8l89eIjOALezO3V5oaewY/view)
+ - [Rmarkdown cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
 
 Workshop for introductory R analysis for people at CMRI - TVRU, GTRU?
 
@@ -57,6 +58,9 @@ Consider covering:
  - design principles for reproducibility
    - don't re-use code/repeat yourself
    - comment frequently
+   - testing / unit tests
+   - what output do you expect?
+   - formatting and readability matters
    - consider package versions: conda / venv
    - consider paths of input/output files (here)
  
@@ -97,6 +101,7 @@ Cheatsheats
 ### other tidyverse
 
  - stringr: regex
+ - glue
  - purrr: map, reduce
  
 ### other libraries
