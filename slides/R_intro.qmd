@@ -37,8 +37,23 @@ It's hard because
 -   learning curve
 :::
 
+## Why code?
 
-## Why R and not C?
+::: {layout="[[-1], [1], [-1]]"}
+ 
+![](images/excel_alert.png){fig-align="center"}
+
+:::
+
+::: notes
+
+because sometimes excel fails you
+
+When I tried to load data that I processed in R into excel, I got this message
+:::
+
+
+## Why R?
 
 ::: columns
 ::: {.column width="50%"}
@@ -141,7 +156,6 @@ Because the tidyverse:  it's awesome!  And bioconductor for genomics
 -   Large community: help is available
 
 
-Python is also a common choice for data science.  It's a good choice for some tasks (like ML) but I think the bar is lower for working with tabular data in R (pandas is harder than the tidyverse).
-
+Python is also a common choice for data science.  It's a good choice for some tasks (like ML) but I think the learning curve is less steep for working with tabular data in R (pandas is harder than the tidyverse).
 
 :::
